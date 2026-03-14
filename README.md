@@ -20,6 +20,10 @@ Currently improving my backend development skills and building real projects.
 
 ---
 
+## Current Projects
+
+- ClientManager – PHP client management system with authentication and CRUD operations.
+
 ## Projects
 
 ### ClientManager
