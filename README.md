@@ -1,5 +1,5 @@
 # Hi, I'm Maximiliano 👋  
-Backend Developer | PHP | MySQL
+Backend Developer | PHP | MySQL | Web Applications
 
 💻 Backend developer focused on building practical web applications using PHP and MySQL.
 
