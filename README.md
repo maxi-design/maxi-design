@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Maximiliano 👋
 
-<!--
-**maxi-design/maxi-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on building web applications using **PHP and MySQL**.
 
-Here are some ideas to get you started:
+I enjoy developing practical web systems such as admin panels, CRUD applications and database-driven websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently improving my backend development skills and building real projects.
+
+---
+
+## Technologies
+
+- PHP
+- MySQL
+- PDO
+- HTML
+- CSS
+- Git
+- GitHub
+
+---
+
+## Projects
+
+### ClientManager
+Client management system with authentication and full CRUD functionality.
+
+Technologies:
+PHP • MySQL • PDO • HTML • CSS
+
+Repository:
+https://github.com/maxi-design/ClientManager
+
+---
+
+### CreativeStudio
+Landing page for a design studio with contact form and admin panel to manage messages.
+
+Technologies:
+PHP • MySQL • HTML • CSS • JavaScript
+
+Repository:
+https://github.com/maxi-design/CreativeStudio
+
+---
+
+## Currently learning
+
+- Backend architecture
+- Database design
+- Building scalable web applications
+
+---
+
+## Contact
+
+LinkedIn (add link here)
+
+GitHub:
+https://github.com/maxi-design
