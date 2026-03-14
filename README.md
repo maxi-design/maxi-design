@@ -1,4 +1,5 @@
-# Hi, I'm Maximiliano 👋
+Hi, I'm Maximiliano 👋  
+Backend Developer | PHP | MySQL
 
 Backend developer focused on building web applications using **PHP and MySQL**.
 
