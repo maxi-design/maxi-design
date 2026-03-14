@@ -1,7 +1,7 @@
 # Hi, I'm Maximiliano 👋  
 Backend Developer | PHP | MySQL
 
-Backend developer focused on building web applications using **PHP and MySQL**.
+💻 Backend developer focused on building practical web applications using PHP and MySQL.
 
 I enjoy developing practical web systems such as admin panels, CRUD applications and database-driven websites.
 
