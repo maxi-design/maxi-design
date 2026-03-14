@@ -59,7 +59,5 @@ https://github.com/maxi-design/CreativeStudio
 
 ## Contact
 
-LinkedIn (add link here)
-
-GitHub:
-https://github.com/maxi-design
+LinkedIn: coming soon  
+GitHub: https://github.com/maxi-design
